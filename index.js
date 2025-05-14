@@ -1,5 +1,5 @@
 /**
- * is sample code for programmatically uploading an image
+ * This is sample code for programmatically uploading an image
  * to a media library, and creating a new post in WordPress
  *
  * Run it with 'node index' command
